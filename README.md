@@ -1,82 +1,112 @@
-# HTML
+# 🚍 CityTransit Tracker
 
-A modern HTML project utilizing Tailwind CSS for building responsive web applications with minimal setup.
+![Project Logo](favicon.jpg)
 
-## 🚀 Features
+A **modern, responsive transportation booking platform** offering real-time vehicle tracking, booking features, and role-based dashboards for passengers and drivers. Built with HTML5, Tailwind CSS, and Node.js for smart city transit solutions.
 
-- **HTML5** - Modern HTML structure with best practices
-- **Tailwind CSS** - Utility-first CSS framework for rapid UI development
-- **Custom Components** - Pre-built component classes for buttons and containers
-- **NPM Scripts** - Easy-to-use commands for development and building
-- **Responsive Design** - Mobile-first approach for all screen sizes
+---
 
-## 📋 Prerequisites
+## 📋 Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Customization](#customization)
+- [License](#license)
 
-- Node.js (v12.x or higher)
-- npm or yarn
+---
 
-## 🛠️ Installation
+## ✨ Features
 
-1. Install dependencies:
-```bash
-npm install
-# or
-yarn install
-```
+- **Real-time Vehicle Tracking:** Live map showing buses, rickshaws, cars, and trucks in your city.
+- **Multi-Category Booking:** Easy booking for buses, rickshaws, cars, and heavy vehicles.
+- **User Roles:** Separate passenger and driver interfaces with tailored functionalities.
+- **Driver Dashboard:** Manage ride requests, earnings, and status online/offline.
+- **Responsive UI:** Mobile-first design using Tailwind CSS for seamless experience on any device.
+- **Quick Authentication:** Role selection and demo credentials for easy login.
 
-2. Start the development server:
-```bash
-npm run dev
-# or
-yarn dev
-```
+---
 
-## 📁 Project Structure
+## 🛠 Tech Stack
 
-```
-html_app/
-├── css/
-│   ├── tailwind.css   # Tailwind source file with custom utilities
-│   └── main.css       # Compiled CSS (generated)
-├── pages/             # HTML pages
-├── index.html         # Main entry point
-├── package.json       # Project dependencies and scripts
-└── tailwind.config.js # Tailwind CSS configuration
-```
+| Technology     | Description                             |
+|----------------|-----------------------------------------|
+| **HTML5**      | Semantic markup for clean structure    |
+| **Tailwind CSS** | Utility-first CSS framework for styling |
+| **Node.js**    | Backend API support                     |
+| **Docker**     | Containerization for deployment        |
+| **WebSocket**  | Real-time updates                       |
 
-## 🎨 Styling
+---
 
-This project uses Tailwind CSS for styling. Custom utility classes include:
+## 📸 Screenshots
 
+### Login Page
+![Login Page](<img width="1857" height="899" alt="LOGIN PAGE" src="https://github.com/user-attachments/assets/400842d1-2161-4dd1-9db6-f7ef5678e734" />
 
-## 🧩 Customization
+)  
+_Select role, login with demo credentials, or via social accounts._
 
-To customize the Tailwind configuration, edit the `tailwind.config.js` file:
+### Passenger Dashboard  
+_Interactive map with live vehicles, booking cards, and ride status._  
+![Passenger Interface](<img width="1027" height="820" alt="DRIVER LAYOUT" src="https://github.com/user-attachments/assets/4b6cf8fa-240b-4727-b402-e3572c46ab8c" />
+)
 
+### Driver Dashboard  
+_Track rides, accept requests, view earnings and manage availability._  
+![Driver Interface](<img width="1027" height="820" alt="DRIVER LAYOUT" src="https://github.com/user-attachments/assets/c76375ae-c967-4791-bf1f-40037cce240d" />
+)
 
-## 📦 Build for Production
+*Note: Replace image links with actual screenshots from your project.*
 
-Build the CSS for production:
+---
 
-```bash
-npm run build:css
-# or
-yarn build:css
-```
+## 🚀 Getting Started
 
-## 📱 Responsive Design
+1. **Clone the repository**
+   
+   git clone [https://github.com/yourusername/citytransit-tracker.git](https://github.com/Faizanakacoder/SMART-INDAI-HACKTHON-City-Transit-Tracker-)
+   
+2. **Install dependencies**
+   
+   npm install
+   
+3. **Start development server**
+   
+   npm run dev
+   
+4. **Build Tailwind CSS for production**
+   
+   npm run buildcss
+   
 
-The app is built with responsive design using Tailwind CSS breakpoints:
+Visit the `tailwind.config.js` file to customize themes and colors.
 
-- `sm`: 640px and up
-- `md`: 768px and up
-- `lg`: 1024px and up
-- `xl`: 1280px and up
-- `2xl`: 1536px and up
+---
 
-## 🙏 Acknowledgments
+## 🗂 Project Structure
 
-- Built with TRACK TOWN TEAM
-- Powered by HTML and Tailwind CSS
+| File                         | Description                         |
+|------------------------------|-----------------------------------|
+| `login.html`                 | Login page with role selection    |
+| `homepage_dashboard.html`    | Passenger dashboard & booking     |
+| `driver_dashboard.html`      | Driver ride management and earnings |
+| `tailwind.config.js`         | Tailwind CSS customization        |
+| `Dockerfile`                 | Deployment setup with Docker      |
 
-Built with ❤️ TRACK TOWN
+---
+
+## 🎨 Customization
+
+- Modify `tailwind.config.js` to customize colors and utilities.
+- Add/remove vehicle types in the respective booking HTML files.
+- Extend backend API endpoints for additional features.
+
+---
+
+## 📄 License
+
+This project is provided for educational and demo use related to smart city transportation solutions.
+
+---
