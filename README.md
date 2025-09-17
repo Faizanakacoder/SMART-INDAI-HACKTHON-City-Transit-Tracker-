@@ -1,6 +1,6 @@
 # 🚍 CityTransit Tracker
 
-![Project Logo](<img width="1857" height="899" alt="LOGIN PAGE" src="https://github.com/user-attachments/assets/3c68fcbc-06ee-4960-9825-0291c88e73ef" />
+![Project Logo](![PROJECT LOGO](https://github.com/user-attachments/assets/6761a5d0-fcaf-4b92-b788-861723b44d94)
 )
 
 A **modern, responsive transportation booking platform** offering real-time vehicle tracking, booking features, and role-based dashboards for passengers and drivers. Built with HTML5, Tailwind CSS, and Node.js for smart city transit solutions.
