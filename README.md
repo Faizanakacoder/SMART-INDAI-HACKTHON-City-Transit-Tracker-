@@ -47,17 +47,18 @@ A **modern, responsive transportation booking platform** offering real-time vehi
 ![Login Page](<img width="1857" height="899" alt="LOGIN PAGE" src="https://github.com/user-attachments/assets/400842d1-2161-4dd1-9db6-f7ef5678e734" />
 
 )  
-_Select role, login with demo credentials, or via social accounts._
+Select role, login with demo credentials, or via social accounts.
 
 ### Passenger Dashboard  
-_Interactive map with live vehicles, booking cards, and ride status._  
+Interactive map with live vehicles, booking cards, and ride status.
 ![Passenger Interface](<img width="1024" height="914" alt="PASSANGER LAYTOU" src="https://github.com/user-attachments/assets/a37401d7-1884-4203-be2e-88d6a46e3c44" />
 
 )
 
 ### Driver Dashboard  
-_Track rides, accept requests, view earnings and manage availability._  
-![Driver Interface](![Uploading DRIVER LAYOUT.png…]()
+Track rides, accept requests, view earnings and manage availability.
+![driver Interface](<img width="1027" height="820" alt="DRIVER LAYOUT" src="https://github.com/user-attachments/assets/e2e1556d-96df-441c-a26e-fdf4024ed1f6" />
+
 
 )
 
