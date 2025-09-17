@@ -1,6 +1,7 @@
 # 🚍 CityTransit Tracker
 
-![Project Logo](favicon.jpg)
+![Project Logo](<img width="1857" height="899" alt="LOGIN PAGE" src="https://github.com/user-attachments/assets/3c68fcbc-06ee-4960-9825-0291c88e73ef" />
+)
 
 A **modern, responsive transportation booking platform** offering real-time vehicle tracking, booking features, and role-based dashboards for passengers and drivers. Built with HTML5, Tailwind CSS, and Node.js for smart city transit solutions.
 
@@ -50,12 +51,13 @@ _Select role, login with demo credentials, or via social accounts._
 
 ### Passenger Dashboard  
 _Interactive map with live vehicles, booking cards, and ride status._  
-![Passenger Interface](<img width="1027" height="820" alt="DRIVER LAYOUT" src="https://github.com/user-attachments/assets/4b6cf8fa-240b-4727-b402-e3572c46ab8c" />
+![Passenger Interface](<img width="1024" height="914" alt="PASSANGER LAYTOU" src="https://github.com/user-attachments/assets/a37401d7-1884-4203-be2e-88d6a46e3c44" />
+
 )
 
 ### Driver Dashboard  
 _Track rides, accept requests, view earnings and manage availability._  
-![Driver Interface](<img width="1027" height="820" alt="DRIVER LAYOUT" src="https://github.com/user-attachments/assets/c76375ae-c967-4791-bf1f-40037cce240d" />
+![Driver Interface](<img width="1027" height="820" alt="DRIVER LAYOUT" src="https://github.com/user-attachments/assets/3c7f395f-1874-4080-aea0-712075f8a45e" />
 )
 
 *Note: Replace image links with actual screenshots from your project.*
