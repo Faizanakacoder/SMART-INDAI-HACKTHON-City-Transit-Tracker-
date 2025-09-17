@@ -57,7 +57,8 @@ _Interactive map with live vehicles, booking cards, and ride status._
 
 ### Driver Dashboard  
 _Track rides, accept requests, view earnings and manage availability._  
-![Driver Interface](<img width="1027" height="820" alt="DRIVER LAYOUT" src="https://github.com/user-attachments/assets/3c7f395f-1874-4080-aea0-712075f8a45e" />
+![Driver Interface](![Uploading DRIVER LAYOUT.png…]()
+
 )
 
 *Note: Replace image links with actual screenshots from your project.*
